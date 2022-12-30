@@ -1,0 +1,151 @@
+body{
+    overflow: hidden;
+    background-image: url(https://wallpaperaccess.com/full/3402026.png);
+    margin: 0;
+}
+
+.center{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    margin-top: 12%;
+}
+
+.Login_Box_Container{
+    background-color: 	#36393e;
+    width: 770px;
+    height: 400px;
+}
+
+.title{
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.sub_title{
+    text-align: center;
+    margin-top: 5px;
+    color: #adadad;
+    font-size: 15px;
+    font-weight: 150;
+    margin-bottom: 17px;
+}
+
+.email_text_box_title{
+    margin-top: 10px;
+    color: #bababa;
+    font-size: 13px;
+    text-align: left;
+    margin-left: 20px;
+    font-weight: 1000;
+}
+
+#email{
+    margin-top: 6px;
+    color: white;
+    margin-left: 20px;
+    background-color: #1e2124;
+    border: none;
+    width: 400px;
+    height: 35px;
+}
+
+.password_text_box_title{
+    margin-top: 18px;
+    color: #bababa;
+    font-size: 13px;
+    text-align: left;
+    margin-left: 20px;
+    font-weight: 1000;
+}
+
+#password{
+    margin-top: 6px;
+    color: white;
+    margin-left: 20px;
+    background-color: #1e2124;
+    border: none;
+    width: 400px;
+    height: 35px;
+}
+
+.red{
+    color: red;
+}
+
+#div1{
+    width: 50%;
+    float: left;
+}
+#div2{
+    width: 50%;
+    float: right;
+    margin-top: -23px;
+    margin-right: 12px;
+}
+#div3{
+    width: 50%;
+    float: left;
+}
+#div4{
+    width: 50%;
+    float: right;
+    margin-top: -23px;
+    margin-right: 112px;
+}
+#div5{
+    width: 50%;
+    float: left;
+}
+#div6{
+    width: 50%;
+    float: right;
+    margin-top: -20.5px;
+    margin-right: 83px;
+}
+
+.fyp_style{
+    margin-left: 20px;
+    color: #00B5E2;
+    font-size: 13.5px;
+    margin-top: 10px;
+    font-weight: 100;
+}
+
+.Log_In_button{
+    width: 400px;
+    height: 40px;
+    margin-left: 20px;
+    background-color: #5865F2;
+    margin-top: 20px;
+    color: white;
+}
+.Log_In_button:hover{
+    background-color: #5865f2ab;
+    border: none;
+}
+.button_sub_title{
+    margin-top: 8px;
+    color: #939393;    ;
+    font-size: 13px;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.fyp_style_2{
+    margin-left: 5px;
+    color: #00B5E2;
+    font-size: 13.5px;
+    margin-top: 10px;
+    font-weight: 100;
+}
+
+.image_QR_code{
+    margin-left: 25px;
+    margin-top: 43px;
+    width: 240px;
+    height: 300px;
+}
